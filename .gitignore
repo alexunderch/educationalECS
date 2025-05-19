@@ -1,3 +1,9 @@
+.DS_Store
+.vscode
+#everyone has own configs
+.ini 
+
+
 # Copyrighted images
 assets/images
 assets/sounds
